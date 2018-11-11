@@ -31,6 +31,7 @@ _A list of my commonly used Git commands_
 | `git branch` | List branches (the asterisk denotes the current branch) |
 | `git branch -a` | List all branches (local and remote) |
 | `git branch [branch name]` | Create a new branch |
+| `git branch -m [branch name] [New Branch name]` | rename a branch |
 | `git branch -d [branch name]` | Delete a branch |
 | `git push origin --delete [branchName]` | Delete a remote branch |
 | `git checkout -b [branch name]` | Create a new branch and switch to it |
