@@ -62,4 +62,10 @@ _A list of my commonly used Git commands_
 | ------- | ----------- |
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
+|`git log --online`| View onkine changes (detailed)|
 | `git diff [source branch] [target branch}` | Preview changes before merging |
+| `git diff HEAD HEAD^` | compare with HEAD and Head - 1 changes |
+
+### other commands
+
+|command| descriptions|
